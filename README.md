@@ -19,15 +19,16 @@
 
 ### 🚀 Мої роботи:
 🌟 **[Проєкт 1 – Лендінг](https://andrii-kyrianov.github.io/Bean-Scene/)**  
-🌟 **[Проєкт 2 – Адаптивний сайт](https://yourgithub.io/project2)**  
-🌟 **[Проєкт 3 – Креативна анімація](https://yourgithub.io/project3)**  
+🌟 **[Проєкт 2 – простий інтернет магазин галереї](https://andrii-kyrianov.github.io/Art-work/)**
+🌟 **[Проєкт 3 – Великій інтернет магазин](https://andrii-kyrianov.github.io/Furniro/)**  
+🌟 **[Проєкт 4 – Бфгатосторінковий сайт](https://andrii-kyrianov.github.io/desaire/)**
 
-📌 **Більше робіт – [Мій GitHub](https://github.com/yourusername)**  
+📌 **Більше робіт – [Мій GitHub](https://github.com/andrii-kyrianov)**  
 
 ---
 
 ### 📊 GitHub статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?andrii-kyrianov=andrii-kyrianov&show_icons=true&theme=radical" />
 </p>
 
