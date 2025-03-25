@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[baner_github.webpbaner_github.webp](https://github.com/andrii-kyrianov/andrii-kyrianov/blob/main/baner_github.webp)" alt="Front-End Developer Banner" width="100%">
-</p>
-
 <h1 align="center">Привіт! Я Андрій 👋</h1>
 
 <p align="center">
