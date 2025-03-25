@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://yourimageurl.com/banner.png" alt="Front-End Developer Banner" width="100%">
+  <img src="baner_github.webpbaner_github.webp" alt="Front-End Developer Banner" width="100%">
 </p>
 
-/<h1 align="center">Привіт! Я Андрій 👋</h1>
+<h1 align="center">Привіт! Я Андрій 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
