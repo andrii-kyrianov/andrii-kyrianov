@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔥 Верстальник | 🎨 HTML | CSS | JS | Адаптив 
+  🔥 Верстальник | 🎨 HTML | CSS | JS | Адаптив | БЕМ
 </p>
 
 ---
@@ -29,6 +29,6 @@
 
 ### 📊 GitHub статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrii-kyrianov&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrii-kyrianov&show_icons=true&theme=radical"/>
 </p>
 
