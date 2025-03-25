@@ -1,24 +1,24 @@
-<h1 align="center">Привіт! Я [Твоє Ім'я] 👋</h1>
+<h1 align="center">Привіт! Я Андрій 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
 <p align="center">
-  🔥 Верстальник | 🎨 HTML | CSS | JS | Адаптив | Анімації  
+  🔥 Верстальник | 🎨 HTML | CSS | JS | Адаптив 
 </p>
 
 ---
 
 ### 🛠️ Навички:
-- **HTML5 | CSS3 | SCSS | Tailwind | Bootstrap**
-- **JavaScript | GSAP | AOS**
+- **HTML5 | CSS3 | SCSS
+- **JavaScript | GULP 
 - **Git | GitHub | Figma**
 
 ---
 
-### 🚀 Мої найкращі роботи:
-🌟 **[Проєкт 1 – Лендінг](https://yourgithub.io/project1)**  
+### 🚀 Мої роботи:
+🌟 **[Проєкт 1 – Лендінг](https://andrii-kyrianov.github.io/Bean-Scene/)**  
 🌟 **[Проєкт 2 – Адаптивний сайт](https://yourgithub.io/project2)**  
 🌟 **[Проєкт 3 – Креативна анімація](https://yourgithub.io/project3)**  
 
